@@ -1,0 +1,21 @@
+  #boxSection{
+    display: flex;
+    flex-direction: row;
+    margin: 15px;
+  }
+  
+  #box1{
+    border: 1px solid red;
+    display: flex;
+    width: 50%;
+    height: 20px;
+    margin: 10px;
+  }
+  
+  #box2{
+    border: 1px solid blue;
+    display: flex;
+    width: 50%;
+    height: 20px;
+    margin: 10px;
+  }
